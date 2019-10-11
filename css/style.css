@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Pro|Titillium+Web:400,700&display=swap');
+
+.headers{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+p{
+    font-family: 'Crimson Pro', serif;
+    font-size: 1.15rem;
+    text-align: justify;
+    
+}
+
+h1{
+    font-weight: bold;
+}
+
+h3{
+    font-weight: bold;
+}
+
+h5{
+    font-size: 1.2rem;
+}
+
+h6{
+    font-weight: bold;
+}
+
+a.headers-2{
+    text-decoration: underline;
+    color: #000000;
+}
+
+#resume-header{
+    background: #ffc107;
+    margin-left: 0;
+    padding-top: 1rem;
+    height: 250vh
+}
+
+#profile {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    object-fit: cover;
+    border-radius: 100%;
+
+}
+
+img{
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.logo{
+    max-width: 10%
+}
+
+#logo-uni{
+    max-width: 5%;
+}
+
+#hyperlink{
+    list-style: none;
+    text-align: center;
+    padding-left: 0;
+    padding: 1rem;
+}
+
+#resume-header-header{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+a.links{
+    color: #ffffff; 
+}
+
+a.top{
+    padding-top: 3rem;
+    margin-top: -3rem;
+    display: inline-block
+}
+
+#link-body{
+    color:#000000;
+    text-decoration: underline
+}
+
+li{
+    font-family: 'Crimson Pro', serif;
+}
+
+.container-fluid{
+    margin-top: 1rem;
+}
+
+
